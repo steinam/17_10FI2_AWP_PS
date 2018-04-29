@@ -1,0 +1,15 @@
+Fragen / Links zu Arrays / Hashmaps
+
+https://en.wikiversity.org/wiki/PowerShell/Arrays_and_Hash_Tables#Activities
+
+http://powershelltutorial.net/Home/PowerShell-Array-Hashes-Variable
+
+http://community.idera.com/powershell/powertips/b/ebookv2/posts/chapter-4-arrays-and-hashtables
+
+https://www.windowspro.de/script/hash-table-powershell-erzeugen-elemente-hinzufuegen-loeschen-sortieren
+
+https://www.script-example.com/powershell-hashtable
+
+https://www.script-example.com/Powershell-Loops-Array
+
+http://www.powershellpraxis.de/index.php/skriptdesing
